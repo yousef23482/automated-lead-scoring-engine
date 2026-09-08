@@ -30,7 +30,7 @@ Eliminate sales rep inefficiency by automating raw data cleaning and applying a 
 
 1. **Clone the Repository:**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/automated-lead-scoring-engine.git](https://github.com/YOUR_USERNAME/automated-lead-scoring-engine.git)
+   git clone [https://github.com/yousef23482/automated-lead-scoring-engine.git](https://github.com/YOUR_USERNAME/automated-lead-scoring-engine.git)
    cd automated-lead-scoring-engine
 Install Dependencies:
 
